@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1588418792 source:e:\uni\year 3\semester 1\ict283\assignment1\date.cpp
+	"date.h"
+
+1588418918 e:\uni\year 3\semester 1\ict283\assignment1\date.h
+
+1588412128 source:e:\uni\year 3\semester 1\ict283\assignment1\main.cpp
+	"menu.h"
+	"vector"
+
+1588417726 e:\uni\year 3\semester 1\ict283\assignment1\menu.h
+	<fstream>
+	"myIO.h"
+	"weather.h"
+	"menu.h"
+
+1588418760 e:\uni\year 3\semester 1\ict283\assignment1\myio.h
+	<iostream>
+	<sstream>
+	<string>
+	"weather.h"
+
+1588423032 e:\uni\year 3\semester 1\ict283\assignment1\weather.h
+	"Vector.h"
+	"date.h"
+	"time.h"
+	"statistics.h"
+	"windLogType.h"
+
+1588418690 e:\uni\year 3\semester 1\ict283\assignment1\vector.h
+
+1588419010 e:\uni\year 3\semester 1\ict283\assignment1\time.h
+	<string>
+
+1588419086 e:\uni\year 3\semester 1\ict283\assignment1\statistics.h
+	"Vector.h"
+	<cmath>
+
+1588423242 e:\uni\year 3\semester 1\ict283\assignment1\windlogtype.h
+	"date.h"
+	"time.h"
+
+1588417102 source:e:\uni\year 3\semester 1\ict283\assignment1\menu.cpp
+	"menu.h"
+
+1588420864 source:e:\uni\year 3\semester 1\ict283\assignment1\myio.cpp
+	"myIO.h"
+
+1588418956 source:e:\uni\year 3\semester 1\ict283\assignment1\time.cpp
+	"Time.h"
+
+1588422996 source:e:\uni\year 3\semester 1\ict283\assignment1\weather.cpp
+	"weather.h"
+
+1588423148 source:e:\uni\year 3\semester 1\ict283\assignment1\windlogtype.cpp
+	"windLogType.h"
+
+1588418792 source:e:\uni\year 3\semester 1\ict283\ict283assignment1\assignment1code\date.cpp
+	"date.h"
+
+1588418918 e:\uni\year 3\semester 1\ict283\ict283assignment1\assignment1code\date.h
+
+1588598970 source:e:\uni\year 3\semester 1\ict283\ict283assignment1\assignment1code\main.cpp
+	"menu.h"
+
+1588593678 e:\uni\year 3\semester 1\ict283\ict283assignment1\assignment1code\menu.h
+	<fstream>
+	<sstream>
+	"myIO.h"
+	"weather.h"
+
+1588418760 e:\uni\year 3\semester 1\ict283\ict283assignment1\assignment1code\myio.h
+	<iostream>
+	<sstream>
+	<string>
+	"weather.h"
+
+1588584396 e:\uni\year 3\semester 1\ict283\ict283assignment1\assignment1code\weather.h
+	"Vector.h"
+	"statistics.h"
+	"windLogType.h"
+
+1588602580 e:\uni\year 3\semester 1\ict283\ict283assignment1\assignment1code\vector.h
+
+1588419010 e:\uni\year 3\semester 1\ict283\ict283assignment1\assignment1code\time.h
+	<string>
+
+1588594276 e:\uni\year 3\semester 1\ict283\ict283assignment1\assignment1code\statistics.h
+	"Vector.h"
+	<string>
+	<cmath>
+
+1588584438 e:\uni\year 3\semester 1\ict283\ict283assignment1\assignment1code\windlogtype.h
+	"date.h"
+	"time.h"
+
+1588420864 source:e:\uni\year 3\semester 1\ict283\ict283assignment1\assignment1code\myio.cpp
+	"myIO.h"
+
+1588418956 source:e:\uni\year 3\semester 1\ict283\ict283assignment1\assignment1code\time.cpp
+	"Time.h"
+
+1588602722 source:e:\uni\year 3\semester 1\ict283\ict283assignment1\assignment1code\weather.cpp
+	"weather.h"
+
+1588584452 source:e:\uni\year 3\semester 1\ict283\ict283assignment1\assignment1code\windlogtype.cpp
+	"windLogType.h"
+
+1588584156 source:e:\uni\year 3\semester 1\ict283\ict283assignment1\assignment1code\menu.cpp
+	"menu.h"
+	"Vector.h"
+
